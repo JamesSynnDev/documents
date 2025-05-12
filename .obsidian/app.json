@@ -1,1 +1,7 @@
-{}
+{
+  "trashOption": "system",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
+}
